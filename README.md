@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lerahjat
-- 👀 I’m interested in learning in reading
+- 👀 I’m interested in learning 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
